@@ -1,8 +1,8 @@
 "Rock_Paper_scissor_game"
 ***********program written in python ********************
 features:
- user chooses uses choice 
- and computr choose computer choice 
+ user chooses user choice 
+ and computer chooses computer's choice 
  winner will be decided according to the program
  features used :
    ramdom library,
