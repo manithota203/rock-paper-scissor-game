@@ -6,8 +6,7 @@ features:
  winner will be decided according to the program
  features used :
    ramdom library,
-   lists ,
+   sets ,
    tuples ,
-   dictionaries ,
    functions.
    
